@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>WangGe&#39;s Blog</title>
+  <title>王哥·说</title>
   
-  
+  <subtitle>Love Coding,Enjoy Life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://mxclub.github.io/"/>
+  <link href="http://WangFazn.github.io/"/>
   <updated>2020-02-01T17:39:04.613Z</updated>
-  <id>http://mxclub.github.io/</id>
+  <id>http://WangFazn.github.io/</id>
   
   <author>
-    <name>Mr. X</name>
+    <name>WangGe</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://mxclub.github.io/hello-world/"/>
-    <id>http://mxclub.github.io/hello-world/</id>
+    <link href="http://WangFazn.github.io/hello-world/"/>
+    <id>http://WangFazn.github.io/hello-world/</id>
     <published>2020-02-01T17:39:04.613Z</published>
     <updated>2020-02-01T17:39:04.613Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>更自由的布局</title>
-    <link href="http://mxclub.github.io/example/%E6%9B%B4%E8%87%AA%E7%94%B1%E7%9A%84%E5%B8%83%E5%B1%80/"/>
-    <id>http://mxclub.github.io/example/更自由的布局/</id>
+    <link href="http://WangFazn.github.io/example/%E6%9B%B4%E8%87%AA%E7%94%B1%E7%9A%84%E5%B8%83%E5%B1%80/"/>
+    <id>http://WangFazn.github.io/example/更自由的布局/</id>
     <published>2019-09-05T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -53,17 +53,17 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="tips" scheme="http://mxclub.github.io/blog/tags/tips/"/>
+      <category term="tips" scheme="http://WangFazn.github.io/blog/tags/tips/"/>
     
   </entry>
   
   <entry>
     <title>支持多用户</title>
-    <link href="http://mxclub.github.io/example/%E5%A4%9A%E7%94%A8%E6%88%B7/"/>
-    <id>http://mxclub.github.io/example/多用户/</id>
+    <link href="http://WangFazn.github.io/example/%E5%A4%9A%E7%94%A8%E6%88%B7/"/>
+    <id>http://WangFazn.github.io/example/多用户/</id>
     <published>2019-04-05T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -79,15 +79,15 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>引用外部文章</title>
-    <link href="http://mxclub.github.io/example/%E5%BC%95%E7%94%A8%E5%A4%96%E9%83%A8%E6%96%87%E7%AB%A0/"/>
-    <id>http://mxclub.github.io/example/引用外部文章/</id>
+    <link href="http://WangFazn.github.io/example/%E5%BC%95%E7%94%A8%E5%A4%96%E9%83%A8%E6%96%87%E7%AB%A0/"/>
+    <id>http://WangFazn.github.io/example/引用外部文章/</id>
     <published>2019-04-05T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -100,15 +100,15 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>自定义meta信息</title>
-    <link href="http://mxclub.github.io/example/%E8%87%AA%E5%AE%9A%E4%B9%89meta%E4%BF%A1%E6%81%AF/"/>
-    <id>http://mxclub.github.io/example/自定义meta信息/</id>
+    <link href="http://WangFazn.github.io/example/%E8%87%AA%E5%AE%9A%E4%B9%89meta%E4%BF%A1%E6%81%AF/"/>
+    <id>http://WangFazn.github.io/example/自定义meta信息/</id>
     <published>2019-04-05T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -124,17 +124,17 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="ss" scheme="http://mxclub.github.io/blog/tags/ss/"/>
+      <category term="ss" scheme="http://WangFazn.github.io/blog/tags/ss/"/>
     
   </entry>
   
   <entry>
     <title>置顶：博客源码</title>
-    <link href="http://mxclub.github.io/example/top/"/>
-    <id>http://mxclub.github.io/example/top/</id>
+    <link href="http://WangFazn.github.io/example/top/"/>
+    <id>http://WangFazn.github.io/example/top/</id>
     <published>2018-12-29T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -147,15 +147,15 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>共用一个评论框</title>
-    <link href="http://mxclub.github.io/example/%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E8%AF%84%E8%AE%BA%E6%A1%86/"/>
-    <id>http://mxclub.github.io/example/共用一个评论框/</id>
+    <link href="http://WangFazn.github.io/example/%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E8%AF%84%E8%AE%BA%E6%A1%86/"/>
+    <id>http://WangFazn.github.io/example/共用一个评论框/</id>
     <published>2018-12-29T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -168,15 +168,15 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>多语言</title>
-    <link href="http://mxclub.github.io/example/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
-    <id>http://mxclub.github.io/example/多语言/</id>
+    <link href="http://WangFazn.github.io/example/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
+    <id>http://WangFazn.github.io/example/多语言/</id>
     <published>2018-12-29T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -190,15 +190,57 @@
     
     </summary>
     
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>摘要注意事项</title>
+    <link href="http://WangFazn.github.io/example/%E6%91%98%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
+    <id>http://WangFazn.github.io/example/摘要注意事项/</id>
+    <published>2018-12-29T16:00:00.000Z</published>
+    <updated>2019-11-26T09:39:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果使用<code>&lt;!-- more --&gt;</code>来实现摘要，则<code>&lt;!-- more --&gt;</code>前后一定要有空行，不然可能导致显示错位。</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">这是摘要</span></span><br><span class="line"></span><br><span class="line"><span class="string">&lt;!--</span> <span class="string">more</span> <span class="bullet">--&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="string">这是正文</span></span><br></pre></td></tr></table></figure><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如果使用&lt;code&gt;&amp;lt;!-- more --&amp;gt;&lt;/code&gt;来实现摘要，则&lt;code&gt;&amp;lt;!-- more --&amp;gt;&lt;/code&gt;前后一定要有空行，不然可能导致显示错位。&lt;/p&gt;
+&lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;这是摘要&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;more&lt;/span&gt; &lt;span class=&quot;bullet&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;这是正文&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>文章专属BGM</title>
+    <link href="http://WangFazn.github.io/example/%E6%96%87%E7%AB%A0%E4%B8%93%E5%B1%9EBGM/"/>
+    <id>http://WangFazn.github.io/example/文章专属BGM/</id>
+    <published>2018-12-29T16:00:00.000Z</published>
+    <updated>2019-11-26T09:39:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">文章专属BGM</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2018</span><span class="bullet">-12</span><span class="bullet">-30</span></span><br><span class="line"><span class="attr">music:</span></span><br><span class="line"><span class="attr">  type:</span> <span class="string">song</span>        <span class="comment"># song （单曲） album （专辑） playlist （歌单） search （搜索）</span></span><br><span class="line"><span class="attr">  id:</span> <span class="number">26664345</span>      <span class="comment"># 歌曲/专辑/歌单 ID</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure><p>详情见文档：<a href="https://xaoxuu.com/wiki/material-x/third-party-services/" target="_blank" rel="noopener">https://xaoxuu.com/wiki/material-x/third-party-services/</a></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;title:&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;文章专属BGM&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;date:&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;2018&lt;/span&gt;&lt;span class=&quot;bullet&quot;&gt;-12&lt;/span&gt;&lt;span class=&quot;bullet&quot;&gt;-30&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;music:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  type:&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;song&lt;/span&gt;        &lt;span class=&quot;comment&quot;&gt;# song （单曲） album （专辑） playlist （歌单） search （搜索）&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  id:&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;26664345&lt;/span&gt;      &lt;span class=&quot;comment&quot;&gt;# 歌曲/专辑/歌单 ID&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;详情见文档：&lt;a href=&quot;https://xaoxuu.com/wiki/material-x/third-party-services/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://xaoxuu.com/wiki/material-x/third-party-services/&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://WangFazn.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>支持一下作者</title>
-    <link href="http://mxclub.github.io/https://github.com/xaoxuu/"/>
-    <id>http://mxclub.github.io/https://github.com/xaoxuu/</id>
+    <link href="http://WangFazn.github.io/https://github.com/xaoxuu/"/>
+    <id>http://WangFazn.github.io/https://github.com/xaoxuu/</id>
     <published>2018-12-29T16:00:00.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -220,51 +262,9 @@
   </entry>
   
   <entry>
-    <title>摘要注意事项</title>
-    <link href="http://mxclub.github.io/example/%E6%91%98%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
-    <id>http://mxclub.github.io/example/摘要注意事项/</id>
-    <published>2018-12-29T16:00:00.000Z</published>
-    <updated>2019-11-26T09:39:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>如果使用<code>&lt;!-- more --&gt;</code>来实现摘要，则<code>&lt;!-- more --&gt;</code>前后一定要有空行，不然可能导致显示错位。</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">这是摘要</span></span><br><span class="line"></span><br><span class="line"><span class="string">&lt;!--</span> <span class="string">more</span> <span class="bullet">--&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="string">这是正文</span></span><br></pre></td></tr></table></figure><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;如果使用&lt;code&gt;&amp;lt;!-- more --&amp;gt;&lt;/code&gt;来实现摘要，则&lt;code&gt;&amp;lt;!-- more --&amp;gt;&lt;/code&gt;前后一定要有空行，不然可能导致显示错位。&lt;/p&gt;
-&lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;这是摘要&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;more&lt;/span&gt; &lt;span class=&quot;bullet&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;这是正文&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>文章专属BGM</title>
-    <link href="http://mxclub.github.io/example/%E6%96%87%E7%AB%A0%E4%B8%93%E5%B1%9EBGM/"/>
-    <id>http://mxclub.github.io/example/文章专属BGM/</id>
-    <published>2018-12-29T16:00:00.000Z</published>
-    <updated>2019-11-26T09:39:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">文章专属BGM</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2018</span><span class="bullet">-12</span><span class="bullet">-30</span></span><br><span class="line"><span class="attr">music:</span></span><br><span class="line"><span class="attr">  type:</span> <span class="string">song</span>        <span class="comment"># song （单曲） album （专辑） playlist （歌单） search （搜索）</span></span><br><span class="line"><span class="attr">  id:</span> <span class="number">26664345</span>      <span class="comment"># 歌曲/专辑/歌单 ID</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure><p>详情见文档：<a href="https://xaoxuu.com/wiki/material-x/third-party-services/" target="_blank" rel="noopener">https://xaoxuu.com/wiki/material-x/third-party-services/</a></p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;title:&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;文章专属BGM&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;date:&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;2018&lt;/span&gt;&lt;span class=&quot;bullet&quot;&gt;-12&lt;/span&gt;&lt;span class=&quot;bullet&quot;&gt;-30&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;music:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  type:&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;song&lt;/span&gt;        &lt;span class=&quot;comment&quot;&gt;# song （单曲） album （专辑） playlist （歌单） search （搜索）&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  id:&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;26664345&lt;/span&gt;      &lt;span class=&quot;comment&quot;&gt;# 歌曲/专辑/歌单 ID&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;详情见文档：&lt;a href=&quot;https://xaoxuu.com/wiki/material-x/third-party-services/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://xaoxuu.com/wiki/material-x/third-party-services/&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="教程" scheme="http://mxclub.github.io/blog/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>vim-cn.sh</title>
-    <link href="http://mxclub.github.io/https://xaoxuu.com/wiki/vim-cn.sh//"/>
-    <id>http://mxclub.github.io/https://xaoxuu.com/wiki/vim-cn.sh//</id>
+    <link href="http://WangFazn.github.io/https://xaoxuu.com/wiki/vim-cn.sh//"/>
+    <id>http://WangFazn.github.io/https://xaoxuu.com/wiki/vim-cn.sh//</id>
     <published>2018-09-21T16:00:00.000Z</published>
     <updated>2019-01-08T16:00:00.000Z</updated>
     
@@ -278,19 +278,19 @@
     
     </summary>
     
-      <category term="Dev" scheme="http://mxclub.github.io/blog/categories/Dev/"/>
+      <category term="Dev" scheme="http://WangFazn.github.io/blog/categories/Dev/"/>
     
-      <category term="Shell Scripts" scheme="http://mxclub.github.io/blog/categories/Dev/Shell-Scripts/"/>
+      <category term="Shell Scripts" scheme="http://WangFazn.github.io/blog/categories/Dev/Shell-Scripts/"/>
     
     
-      <category term="shell" scheme="http://mxclub.github.io/blog/tags/shell/"/>
+      <category term="shell" scheme="http://WangFazn.github.io/blog/tags/shell/"/>
     
   </entry>
   
   <entry>
     <title>hexo.sh</title>
-    <link href="http://mxclub.github.io/https://xaoxuu.com/wiki/hexo.sh//"/>
-    <id>http://mxclub.github.io/https://xaoxuu.com/wiki/hexo.sh//</id>
+    <link href="http://WangFazn.github.io/https://xaoxuu.com/wiki/hexo.sh//"/>
+    <id>http://WangFazn.github.io/https://xaoxuu.com/wiki/hexo.sh//</id>
     <published>2018-08-08T16:00:00.000Z</published>
     <updated>2019-04-03T16:00:00.000Z</updated>
     
@@ -303,21 +303,21 @@
     
     </summary>
     
-      <category term="Dev" scheme="http://mxclub.github.io/blog/categories/Dev/"/>
+      <category term="Dev" scheme="http://WangFazn.github.io/blog/categories/Dev/"/>
     
-      <category term="Hexo" scheme="http://mxclub.github.io/blog/categories/Dev/Hexo/"/>
+      <category term="Hexo" scheme="http://WangFazn.github.io/blog/categories/Dev/Hexo/"/>
     
     
-      <category term="shell" scheme="http://mxclub.github.io/blog/tags/shell/"/>
+      <category term="shell" scheme="http://WangFazn.github.io/blog/tags/shell/"/>
     
-      <category term="Hexo" scheme="http://mxclub.github.io/blog/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://WangFazn.github.io/blog/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Material X</title>
-    <link href="http://mxclub.github.io/https://xaoxuu.com/wiki/material-x//"/>
-    <id>http://mxclub.github.io/https://xaoxuu.com/wiki/material-x//</id>
+    <link href="http://WangFazn.github.io/https://xaoxuu.com/wiki/material-x//"/>
+    <id>http://WangFazn.github.io/https://xaoxuu.com/wiki/material-x//</id>
     <published>2017-10-23T16:00:00.000Z</published>
     <updated>2019-04-05T16:00:00.000Z</updated>
     
@@ -330,19 +330,19 @@
     
     </summary>
     
-      <category term="Dev" scheme="http://mxclub.github.io/blog/categories/Dev/"/>
+      <category term="Dev" scheme="http://WangFazn.github.io/blog/categories/Dev/"/>
     
-      <category term="Hexo" scheme="http://mxclub.github.io/blog/categories/Dev/Hexo/"/>
+      <category term="Hexo" scheme="http://WangFazn.github.io/blog/categories/Dev/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://mxclub.github.io/blog/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://WangFazn.github.io/blog/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Images</title>
-    <link href="http://mxclub.github.io/test/images/"/>
-    <id>http://mxclub.github.io/test/images/</id>
+    <link href="http://WangFazn.github.io/test/images/"/>
+    <id>http://WangFazn.github.io/test/images/</id>
     <published>2013-12-26T14:46:49.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -364,8 +364,8 @@
   
   <entry>
     <title></title>
-    <link href="http://mxclub.github.io/test/no-title/"/>
-    <id>http://mxclub.github.io/test/no-title/</id>
+    <link href="http://WangFazn.github.io/test/no-title/"/>
+    <id>http://WangFazn.github.io/test/no-title/</id>
     <published>2013-12-25T14:57:49.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -386,8 +386,8 @@
   
   <entry>
     <title>Excerpts</title>
-    <link href="http://mxclub.github.io/test/excerpts/"/>
-    <id>http://mxclub.github.io/test/excerpts/</id>
+    <link href="http://WangFazn.github.io/test/excerpts/"/>
+    <id>http://WangFazn.github.io/test/excerpts/</id>
     <published>2013-12-24T16:23:23.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -404,8 +404,8 @@
   
   <entry>
     <title>Videos</title>
-    <link href="http://mxclub.github.io/test/videos/"/>
-    <id>http://mxclub.github.io/test/videos/</id>
+    <link href="http://WangFazn.github.io/test/videos/"/>
+    <id>http://WangFazn.github.io/test/videos/</id>
     <published>2013-12-24T16:19:15.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -427,8 +427,8 @@
   
   <entry>
     <title>Gallery Post</title>
-    <link href="http://mxclub.github.io/test/gallery-post/"/>
-    <id>http://mxclub.github.io/test/gallery-post/</id>
+    <link href="http://WangFazn.github.io/test/gallery-post/"/>
+    <id>http://WangFazn.github.io/test/gallery-post/</id>
     <published>2013-12-24T16:16:18.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
@@ -453,8 +453,8 @@
   
   <entry>
     <title>Tag Plugins</title>
-    <link href="http://mxclub.github.io/test/tag-plugins/"/>
-    <id>http://mxclub.github.io/test/tag-plugins/</id>
+    <link href="http://WangFazn.github.io/test/tag-plugins/"/>
+    <id>http://WangFazn.github.io/test/tag-plugins/</id>
     <published>2013-12-24T16:14:39.000Z</published>
     <updated>2019-11-26T09:39:56.000Z</updated>
     
