@@ -8,6 +8,62 @@
     </url>
     
     <url>
+        <loc>http://WangFazn.github.io/archives/</loc>
+        <lastmod>2020-02-02T18:52:36.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/contact/</loc>
+        <lastmod>2020-02-02T18:50:58.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/friends/</loc>
+        <lastmod>2020-02-02T17:17:06.009Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/about/</loc>
+        <lastmod>2020-02-02T17:14:41.446Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/tags/</loc>
+        <lastmod>2020-02-02T17:12:29.666Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/categories/</loc>
+        <lastmod>2020-02-02T17:10:13.306Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/favorite/</loc>
+        <lastmod>2020-02-02T14:24:24.963Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://WangFazn.github.io/kits/</loc>
+        <lastmod>2020-02-02T14:23:16.855Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://WangFazn.github.io/404.html</loc>
         <lastmod>2020-02-01T21:33:29.334Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -15,35 +71,7 @@
     </url>
     
     <url>
-        <loc>http://WangFazn.github.io/friends/</loc>
-        <lastmod>2020-02-01T21:31:49.874Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://WangFazn.github.io/about/</loc>
-        <lastmod>2020-02-01T21:24:13.437Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://WangFazn.github.io/projects/</loc>
-        <lastmod>2019-11-26T09:39:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://WangFazn.github.io/blog/categories/</loc>
-        <lastmod>2019-11-26T09:39:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://WangFazn.github.io/blog/tags/</loc>
         <lastmod>2019-11-26T09:39:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
