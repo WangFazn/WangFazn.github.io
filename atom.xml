@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>王哥·说</title>
+  
+  <subtitle>Love Coding,Enjoy Life</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://WangFazn.github.io/"/>
+  <updated>2020-02-05T15:02:37.832Z</updated>
+  <id>http://WangFazn.github.io/</id>
+  
+  <author>
+    <name>WangGe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CAD应用技巧之左手键</title>
+    <link href="http://WangFazn.github.io/cad-ying-yong-ji-qiao-zhi-zuo-shou-jian/"/>
+    <id>http://WangFazn.github.io/cad-ying-yong-ji-qiao-zhi-zuo-shou-jian/</id>
+    <published>2020-02-05T14:59:04.000Z</published>
+    <updated>2020-02-05T15:02:37.832Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="CAD" scheme="http://WangFazn.github.io/blog/tags/CAD/"/>
+    
+      <category term="应用技巧" scheme="http://WangFazn.github.io/blog/tags/%E5%BA%94%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="打印设置" scheme="http://WangFazn.github.io/blog/tags/%E6%89%93%E5%8D%B0%E8%AE%BE%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CAD应用技巧之打印设置”</title>
+    <link href="http://WangFazn.github.io/cad-ying-yong-ji-qiao-zhi-da-yin-she-zhi/"/>
+    <id>http://WangFazn.github.io/cad-ying-yong-ji-qiao-zhi-da-yin-she-zhi/</id>
+    <published>2020-02-05T14:57:25.000Z</published>
+    <updated>2020-02-05T15:02:10.233Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="CAD" scheme="http://WangFazn.github.io/blog/tags/CAD/"/>
+    
+      <category term="应用技巧" scheme="http://WangFazn.github.io/blog/tags/%E5%BA%94%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="打印设置" scheme="http://WangFazn.github.io/blog/tags/%E6%89%93%E5%8D%B0%E8%AE%BE%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hell hexo</title>
+    <link href="http://WangFazn.github.io/ce-shi-wen-dang/"/>
+    <id>http://WangFazn.github.io/ce-shi-wen-dang/</id>
+    <published>2020-02-05T14:28:25.000Z</published>
+    <updated>2020-02-05T15:10:20.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;hexo.sh 一个方便管理与发布hexo博客的脚本。&lt;/strong&gt;&lt;/p&gt;
+&lt;fancybox&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
