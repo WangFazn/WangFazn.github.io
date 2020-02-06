@@ -3,22 +3,57 @@
 
 
     <url>
+        <loc>http://WangFazn.github.io/blog/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</loc>
+        <lastmod>2020-02-06T12:57:52.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://WangFazn.github.io/blog/tags/CAD/</loc>
-        <lastmod>2020-02-05T15:02:37.832Z</lastmod>
+        <lastmod>2020-02-06T14:41:41.298Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://WangFazn.github.io/blog/tags/%E5%BA%94%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
-        <lastmod>2020-02-05T15:02:37.832Z</lastmod>
+        <lastmod>2020-02-06T14:41:41.298Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://WangFazn.github.io/blog/tags/%E6%89%93%E5%8D%B0%E8%AE%BE%E7%BD%AE/</loc>
-        <lastmod>2020-02-05T15:02:37.832Z</lastmod>
+        <lastmod>2020-02-06T14:41:41.298Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/blog/tags/%E6%96%87%E6%A1%A3/</loc>
+        <lastmod>2020-02-06T15:56:58.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/blog/tags/Markdown/</loc>
+        <lastmod>2020-02-06T16:27:19.011Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/blog/tags/MdEditor/</loc>
+        <lastmod>2020-02-06T16:27:19.011Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/blog/tags/%E8%BD%AC%E8%BD%BD/</loc>
+        <lastmod>2020-02-06T16:27:19.011Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
