@@ -8,6 +8,54 @@
     </url>
 
     <url>
+        <loc>http://WangFazn.github.io/hexo-bo-ke-kuang-jia-lian-jie/</loc>
+        <lastmod>2020-02-11T15:49:49.911Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/hello-hexo/</loc>
+        <lastmod>2020-02-11T15:46:30.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/bo-ke-tu-pian-su-cai-tu-pian-zhan-wei-fu/</loc>
+        <lastmod>2020-02-11T15:44:48.117Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/iterm2-oh-my-zsh-da-zao-mac-shang-piao-liang-you-hao-yong-de-zhong-duan/</loc>
+        <lastmod>2020-02-11T15:37:38.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/centos-7-ji-chu-hui-zong/</loc>
+        <lastmod>2020-02-11T11:29:46.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://WangFazn.github.io/macos-xia-ming-ling-xing-shen-qi-brew/</loc>
+        <lastmod>2020-02-11T11:28:53.188Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://WangFazn.github.io/markdown-zai-xian-bian-ji-qi-mdeditor/</loc>
         <lastmod>2020-02-06T16:27:19.011Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -42,30 +90,6 @@
     <url>
         <loc>http://WangFazn.github.io/markdown-xue-xi-zi-yuan-hui-zong/</loc>
         <lastmod>2020-02-06T12:57:52.740Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://WangFazn.github.io/bo-ke-tu-pian-su-cai-tu-pian-zhan-wei-fu/</loc>
-        <lastmod>2020-02-06T09:39:43.752Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://WangFazn.github.io/hexo-bo-ke-kuang-jia-lian-jie/</loc>
-        <lastmod>2020-02-05T17:15:05.357Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://WangFazn.github.io/ce-shi-wen-dang/</loc>
-        <lastmod>2020-02-05T15:10:20.442Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

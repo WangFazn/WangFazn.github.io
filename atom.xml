@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://WangFazn.github.io/"/>
-  <updated>2020-02-06T16:27:19.011Z</updated>
+  <updated>2020-02-11T11:29:46.725Z</updated>
   <id>http://WangFazn.github.io/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CentOS 7 基础汇总</title>
+    <link href="http://WangFazn.github.io/centos-7-ji-chu-hui-zong/"/>
+    <id>http://WangFazn.github.io/centos-7-ji-chu-hui-zong/</id>
+    <published>2020-02-11T11:29:46.000Z</published>
+    <updated>2020-02-11T11:29:46.725Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MacOS下命令行神器：brew</title>
+    <link href="http://WangFazn.github.io/macos-xia-ming-ling-xing-shen-qi-brew/"/>
+    <id>http://WangFazn.github.io/macos-xia-ming-ling-xing-shen-qi-brew/</id>
+    <published>2020-02-11T11:28:53.000Z</published>
+    <updated>2020-02-11T11:28:53.188Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iterm2+oh-my-zsh:打造Mac上漂亮又好用的终端</title>
+    <link href="http://WangFazn.github.io/iterm2-oh-my-zsh-da-zao-mac-shang-piao-liang-you-hao-yong-de-zhong-duan/"/>
+    <id>http://WangFazn.github.io/iterm2-oh-my-zsh-da-zao-mac-shang-piao-liang-you-hao-yong-de-zhong-duan/</id>
+    <published>2020-02-11T11:27:22.000Z</published>
+    <updated>2020-02-11T15:37:38.065Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;iterm2-oh-my-zsh：打造Mac上漂亮又好用的终端&quot;&gt;&lt;a href=&quot;#iterm2-oh-my-zsh：打造Mac上漂亮又好用的终端&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="iterm2" scheme="http://WangFazn.github.io/blog/tags/iterm2/"/>
+    
+      <category term="oh-my-zsh" scheme="http://WangFazn.github.io/blog/tags/oh-my-zsh/"/>
+    
+      <category term="zsh" scheme="http://WangFazn.github.io/blog/tags/zsh/"/>
+    
+      <category term="Mac" scheme="http://WangFazn.github.io/blog/tags/Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown在线编辑器MdEditor</title>
@@ -76,7 +134,7 @@
     <link href="http://WangFazn.github.io/bo-ke-tu-pian-su-cai-tu-pian-zhan-wei-fu/"/>
     <id>http://WangFazn.github.io/bo-ke-tu-pian-su-cai-tu-pian-zhan-wei-fu/</id>
     <published>2020-02-06T09:23:41.000Z</published>
-    <updated>2020-02-06T09:39:43.752Z</updated>
+    <updated>2020-02-11T15:44:48.117Z</updated>
     
     <summary type="html">
     
@@ -84,12 +142,16 @@
       
         
         
-          &lt;h2 id=&quot;图片点位符&quot;&gt;&lt;a href=&quot;#图片点位符&quot; class=&quot;headerlink&quot; title=&quot;图片点位符&quot;&gt;&lt;/a&gt;图片点位符&lt;/h2&gt;&lt;h3 id=&quot;placeholder-com&quot;&gt;&lt;a href=&quot;#placeholder-com&quot;
+          &lt;h3 id=&quot;图片点位符&quot;&gt;&lt;a href=&quot;#图片点位符&quot; class=&quot;headerlink&quot; title=&quot;图片点位符&quot;&gt;&lt;/a&gt;图片点位符&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://placeholder.com&quot; target=&quot;_blank&quot;
         
       
     
     </summary>
     
+    
+      <category term="学习素材" scheme="http://WangFazn.github.io/blog/tags/%E5%AD%A6%E4%B9%A0%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="图片点位符" scheme="http://WangFazn.github.io/blog/tags/%E5%9B%BE%E7%89%87%E7%82%B9%E4%BD%8D%E7%AC%A6/"/>
     
   </entry>
   
@@ -152,7 +214,7 @@
     <link href="http://WangFazn.github.io/hexo-bo-ke-kuang-jia-lian-jie/"/>
     <id>http://WangFazn.github.io/hexo-bo-ke-kuang-jia-lian-jie/</id>
     <published>2020-02-05T15:22:01.000Z</published>
-    <updated>2020-02-05T17:15:05.357Z</updated>
+    <updated>2020-02-11T15:49:49.911Z</updated>
     
     <summary type="html">
     
@@ -160,7 +222,7 @@
       
         
         
-          &lt;p&gt;&lt;center&gt;&lt;h3&gt;&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hexo
+          &lt;h3 id=&quot;hexo-一个快速、简洁且高效的博客框架&quot;&gt;&lt;a href=&quot;#hexo-一个快速、简洁且高效的博客框架&quot; class=&quot;headerlink&quot; title=&quot;hexo 一个快速、简洁且高效的博客框架&quot;&gt;&lt;/a&gt;&lt;a
         
       
     
@@ -211,10 +273,10 @@
   
   <entry>
     <title>hell hexo</title>
-    <link href="http://WangFazn.github.io/ce-shi-wen-dang/"/>
-    <id>http://WangFazn.github.io/ce-shi-wen-dang/</id>
+    <link href="http://WangFazn.github.io/hello-hexo/"/>
+    <id>http://WangFazn.github.io/hello-hexo/</id>
     <published>2020-02-05T14:28:25.000Z</published>
-    <updated>2020-02-05T15:10:20.442Z</updated>
+    <updated>2020-02-11T15:46:30.747Z</updated>
     
     <summary type="html">
     

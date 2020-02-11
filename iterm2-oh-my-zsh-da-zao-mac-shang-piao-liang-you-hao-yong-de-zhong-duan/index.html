@@ -4,8 +4,16 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="404 Not Found, 王哥·说">
-    <meta name="description" content="404 Not Found | 王哥·说">
+    <meta name="keywords" content="iterm2+oh-my-zsh:打造Mac上漂亮又好用的终端, 王哥·说">
+    <meta name="description" content="iterm2+oh-my-zsh：打造Mac上漂亮又好用的终端配置后的效果，看着是不是很炫。
+
+下面进入正题
+前言zsh介绍
+zsh完全兼容bash
+zsh具有强大的可定制的特点，支持许多插件，补全功能也很强大
+明显缺点是配置麻烦
+
+zsh">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -13,7 +21,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>404 Not Found | 王哥·说</title>
+    <title>iterm2+oh-my-zsh:打造Mac上漂亮又好用的终端 | 王哥·说</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -303,12 +311,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/21.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/14.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">404 Not Found</h1>
+                    <h1 class="description center-align post-title">iterm2+oh-my-zsh:打造Mac上漂亮又好用的终端</h1>
                 </div>
             </div>
         </div>
@@ -423,9 +431,25 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/blog/tags/iterm2/">
+                                <span class="chip bg-color">iterm2</span>
+                            </a>
+                        
+                            <a href="/blog/tags/oh-my-zsh/">
+                                <span class="chip bg-color">oh-my-zsh</span>
+                            </a>
+                        
+                            <a href="/blog/tags/zsh/">
+                                <span class="chip bg-color">zsh</span>
+                            </a>
+                        
+                            <a href="/blog/tags/Mac/">
+                                <span class="chip bg-color">Mac</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
@@ -437,28 +461,28 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-02-02
+                    2020-02-11
                 </div>
                 
 
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2020-02-02
+                    2020-02-11
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    49
+                    2.1k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    9 分
                 </div>
                 
 				
@@ -474,10 +498,276 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="404-Not-Found"><a href="#404-Not-Found" class="headerlink" title="404 Not Found"></a><center><strong>404 Not Found</strong></center></h1><p><br></p>
-<p><center><strong>很抱歉，您访问的页面不存在</strong></center></p>
-<p><center>可能是输入地址有误或该地址已被删除</center></p>
-<p><center>网站正在建设中，精彩很快呈现，敬请期待！</center><br><br><br><br></p>
+                <h2 id="iterm2-oh-my-zsh：打造Mac上漂亮又好用的终端"><a href="#iterm2-oh-my-zsh：打造Mac上漂亮又好用的终端" class="headerlink" title="iterm2+oh-my-zsh：打造Mac上漂亮又好用的终端"></a>iterm2+oh-my-zsh：打造Mac上漂亮又好用的终端</h2><p>配置后的效果，看着是不是很炫。</p>
+<p><img src="../hexo/source/../../upload/Jietu.png" alt="配置效果"></p>
+<p>下面进入正题</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="zsh介绍"><a href="#zsh介绍" class="headerlink" title="zsh介绍"></a>zsh介绍</h3><ul>
+<li>zsh完全兼容bash</li>
+<li>zsh具有强大的可定制的特点，支持许多插件，补全功能也很强大</li>
+<li>明显缺点是配置麻烦</li>
+</ul>
+<p>zsh的一些命令：<br>查看当前使用的shell</p>
+<p>MacOS默认安装zsh，确认你是否安装过zsh：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">zsh --version
+</code></pre>
+<pre class=" language-ZSH"><code class="language-ZSH">echo $SHELL
+/bin/bash
+</code></pre>
+<p>查看安装的 shell</p>
+<pre class=" language-ZSH"><code class="language-ZSH">cat /etc/shells
+
+/bin/bash
+/bin/csh
+/bin/ksh
+/bin/sh
+/bin/tcsh
+/bin/zsh
+</code></pre>
+<p>使用 brew 更新 zsh</p>
+<pre class=" language-ZSH"><code class="language-ZSH">brew install zsh
+==> Downloading https://homebrew.bintray.com/bottles/zsh-5.5.1.high_sierra.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring zsh-5.5.1.high_sierra.bottle.tar.gz
+/usr/local/Cellar/zsh/5.5.1: 1,444 files, 12MB
+</code></pre>
+<p>切换为 zsh</p>
+<pre class=" language-ZSH"><code class="language-ZSH">chsh -s /bin/zsh
+</code></pre>
+<p>重启终端即可使用 zsh。</p>
+<p>所以，就有了神器oh-my-zsh来拯救广大的猿们。</p>
+<h2 id="oh-my-zsh安装"><a href="#oh-my-zsh安装" class="headerlink" title="oh-my-zsh安装"></a>oh-my-zsh安装</h2><h3 id="oh-my-zsh介绍"><a href="#oh-my-zsh介绍" class="headerlink" title="oh-my-zsh介绍"></a>oh-my-zsh介绍</h3><ul>
+<li>一款社区驱动的命令行工具，<strong>大神汇聚</strong></li>
+<li>有许多精美的主题和强大的插件，可定制性强，<strong>美观方便</strong></li>
+<li>有比bash更强大别名功能，<strong>实用高效</strong>。</li>
+<li>github: <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank" rel="noopener">https://github.com/ohmyzsh/ohmyzsh</a></li>
+</ul>
+<h4 id="下载安装oh-my-zsh"><a href="#下载安装oh-my-zsh" class="headerlink" title="下载安装oh-my-zsh"></a>下载安装oh-my-zsh</h4><p><strong>方式一：</strong>使用git 这里下载到~/.oh-my-zsh下</p>
+<pre class=" language-ZSH"><code class="language-ZSH">git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zs
+</code></pre>
+<p><strong>方式二：</strong>使用curl</p>
+<pre class=" language-ZSH"><code class="language-ZSH">sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+</code></pre>
+<p><strong>方式三：</strong>使用wget</p>
+<pre class=" language-ZSH"><code class="language-ZSH">sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+</code></pre>
+<p>接下来备份配置文件，也可直接在usr目录中复制副本</p>
+<pre class=" language-ZSH"><code class="language-ZSH">cp ~/.zshrc ~/.zshrc.orig
+</code></pre>
+<p> 然后创建一个新的配置文件</p>
+<pre class=" language-ZSH"><code class="language-ZSH"> cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+</code></pre>
+<p>切换默认shell为zsh</p>
+<pre class=" language-ZSH"><code class="language-ZSH">chsh -s /bin/zsh
+</code></pre>
+<p>最后完成效果，如下：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+  ____  / /_     ____ ___  __  __   ____  _____/ /_  
+ / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \ 
+/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / / 
+\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/  
+                        /____/                       ....is now installed!
+
+
+Please look over the ~/.zshrc file to select plugins, themes, and options.
+
+p.s. Follow us at https://twitter.com/ohmyzsh.
+
+p.p.s. Get stickers and t-shirts at http://shop.planetargon.com.
+
+</code></pre>
+<p>Mac 下隐藏显示隐藏文件</p>
+<blockquote>
+<p>当升级到OS X &gt;=10.9 Mavericks</p>
+</blockquote>
+<blockquote>
+<p>defaults write com.apple.finder AppleShowAllFiles Yes &amp;&amp; killall Finder //显示隐藏文件</p>
+</blockquote>
+<blockquote>
+<p>defaults write com.apple.finder AppleShowAllFiles No &amp;&amp; killall Finder  //不显示隐藏文件</p>
+</blockquote>
+<blockquote>
+<p>快捷键：在 macOS Sierra，可以使用快捷键⌘⇧.(Command + Shift + .) 来快速（在 Finder 中）显示和隐藏隐藏文件了。</p>
+</blockquote>
+<h2 id="iterm2下载安装"><a href="#iterm2下载安装" class="headerlink" title="iterm2下载安装"></a>iterm2下载安装</h2><p>方法一：官方网站下载直接安装</p>
+<p>官方网站：<a href="https://www.iterm2.com/" target="_blank" rel="noopener">https://www.iterm2.com/</a></p>
+<p>下载安装完成后，/bin目录下就会有一个<code>zsh</code>的文件夹，<code>zsh</code>就是一个新的终端，默认带<code>git</code>命令。现在设置<code>zsh</code>为默认终端：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">chsh -s /bin/zsh
+</code></pre>
+<p>方法二：使用Homebrew安装</p>
+<pre class=" language-ZSH"><code class="language-ZSH">brew cask install iterm2
+</code></pre>
+<p>使用brew cask要先安装cask</p>
+<pre class=" language-ZSH"><code class="language-ZSH">brew install caskroom/cask/brew-cask
+</code></pre>
+<blockquote>
+<p><strong>homebrew-cask与brew的区别</strong>：</p>
+</blockquote>
+<blockquote>
+<p>brew是下载源码解压然后./configure &amp;&amp; make install, 并且会自动配置好环境变量。</p>
+</blockquote>
+<blockquote>
+<p>brew cask主要用于有GUI的软件，下载已经编译好的应用包(.dmg/.pkg)。</p>
+</blockquote>
+<h3 id="更换iterm2的主题为Dracula"><a href="#更换iterm2的主题为Dracula" class="headerlink" title="更换iterm2的主题为Dracula"></a>更换iterm2的主题为Dracula</h3><p>1、下载iterm2的Dracula主题</p>
+<pre class=" language-ZSH"><code class="language-ZSH">git clone https://github.com/dracula/iterm.git
+</code></pre>
+<p>设置主题：</p>
+<ol>
+<li>iTerm2 &gt; Preferences &gt; Profiles &gt; Colors Tab</li>
+<li>Open the Color Presets</li>
+<li>从列表中选择import</li>
+<li>选择刚才下载主题中Dracula.itermcolors 文件，确定</li>
+<li>再次打开Color Presets… ，选择Dracula </li>
+</ol>
+<p><img src="https://img-blog.csdnimg.cn/2019042517164517.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RhaXl1aGU=,size_16,color_FFFFFF,t_70" alt="设置参考"></p>
+<h3 id="安装powerline字体"><a href="#安装powerline字体" class="headerlink" title="安装powerline字体"></a>安装powerline字体</h3><pre class=" language-ZSH"><code class="language-ZSH">git clone https://github.com/powerline/fonts.git --depth=1
+</code></pre>
+<p>进入字体目录，安装所需字体：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">cd fonts
+./install.sh
+cd ..
+rm -rf fonts
+</code></pre>
+<p>或者，直接使用命令行安装</p>
+<pre class=" language-ZSH"><code class="language-ZSH">pip install powerline-status --user
+</code></pre>
+<p>打开iTerm2，按照路径打开：iTerm2 –&gt; Preferences –&gt; Profiles –&gt; text，找到Font处修改。</p>
+<h3 id="安装PowerFonts"><a href="#安装PowerFonts" class="headerlink" title="安装PowerFonts"></a>安装PowerFonts</h3><p>安装字体库需要首先将项目 git clone 至本地，然后执行源码中的install.sh。</p>
+<pre class=" language-ZSH"><code class="language-ZSH"># git clone
+git clone https://github.com/powerline/fonts.git --depth=1
+# cd to folder
+cd fonts
+# run install shell
+./install.sh
+</code></pre>
+<p><img src="https://upload-images.jianshu.io/upload_images/2411388-114e36df4c2bb6f6.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp" alt="设置参考"></p>
+<p>安装好字体库之后，设置iTerm2的字体，具体的操作：</p>
+<p>iTerm2 -&gt; Preferences -&gt; Profiles -&gt; Text，</p>
+<p>在 Font 区域选中 Change Font，然后找到 Meslo LG 字体。有L、M、S可选，看个人喜好。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/2411388-855b56e165e3dfd2.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp" alt="设置参考"></p>
+<h3 id="修改配色方案"><a href="#修改配色方案" class="headerlink" title="修改配色方案"></a>修改配色方案</h3><p>最新的iterm 中默认安装了<code>Solarized Dark Higher Contrast</code>配色方案，所以打开iTerm2，按照路径打开：iTerm2 –&gt; Preferences –&gt; Profiles –&gt; color可做修改。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/2411388-16fc7bd39d611b3a.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp" alt="设置参考"></p>
+<h3 id="更换背景"><a href="#更换背景" class="headerlink" title="更换背景"></a>更换背景</h3><p>更换背景图片方式：iTerm2 -&gt; Preferences -&gt; Profiles -&gt; Window -&gt; BackGround Image勾选图片即可。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/2411388-5dfc4e3044f22baf.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp" alt="设置参考"></p>
+<h2 id="oh-my-zsh主题配置"><a href="#oh-my-zsh主题配置" class="headerlink" title="oh-my-zsh主题配置"></a>oh-my-zsh主题配置</h2><h3 id="主题一：random"><a href="#主题一：random" class="headerlink" title="主题一：random"></a>主题一：random</h3><p>终端运行vim命令或在usr中直接打开<code>.zshrc</code>文件编辑</p>
+<p><code>vim ~/.zshrc</code></p>
+<pre class=" language-ZSH"><code class="language-ZSH"># Path to your oh-my-zsh installation.
+export ZSH="/Users/yourname/.oh-my-zsh"
+
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+# ZSH_THEME="robbyrussell"
+ZSH_THEME=random
+# Set list of themes to pick from when loading at random
+# Setting this variable when ZSH_THEME=random will cause
+</code></pre>
+<p>配置项 ZSH_THEME 即为 oh-my-zsh 的主题配置。当设置为 ZSH_THEME=random 时，每次打开终端都会使用一种随机的主题。<br>更多主题见oh-my-zsh的<a href="https://github.com/robbyrussell/oh-my-zsh/wiki/themes" target="_blank" rel="noopener">主题列表</a>。</p>
+<p>最后，更新配置<code>source ~/.zshrc</code></p>
+<h3 id="主题二：-powerlevel9k"><a href="#主题二：-powerlevel9k" class="headerlink" title="主题二：/powerlevel9k"></a>主题二：/powerlevel9k</h3><p>1、主题下载，并导入oh-my-zsh的themes文件夹中：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+</code></pre>
+<p>2、修改配置文件<code>~/.zshrc</code></p>
+<pre class=" language-ZSH"><code class="language-ZSH">ZSH_THEME="powerlevel9k/powerlevel9k"
+</code></pre>
+<p>3、更新配置文件</p>
+<pre class=" language-ZSH"><code class="language-ZSH">source ~/.zshrc
+</code></pre>
+<blockquote>
+<p>轻度定制：默认的powerlevel9k主题最右侧显示的元素为：每条命令的执行状态，历史命令条数，当前时间，这样也比较冗余。我在这里将 历史命令条数 这一元素去掉，这样看起来比较简洁。这需要修改 ~/.zshrc 配置文件，在后面追加如下内容，定制该主题的显示元素。</p>
+</blockquote>
+<p>修改配置文件<code>~/.zshrc</code>：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">#设置 oh-my-zsh powerlevel9k 主题左边元素显示
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir rbenv vcs)
+#设置 oh-my-zsh powerlevel9k 主题右边元素显示
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator background_jobs time)
+</code></pre>
+<h3 id="主题三：Dracula"><a href="#主题三：Dracula" class="headerlink" title="主题三：Dracula"></a>主题三：Dracula</h3><p>1、下载主题文件</p>
+<pre class=" language-ZSH"><code class="language-ZSH">$ git clone https://github.com/dracula/zsh.git
+</code></pre>
+<p>2、创建一个指向Oh my zsh主题文件夹的符号链接</p>
+<pre class=" language-ZSH"><code class="language-ZSH">DRACULA_THEME是你刚才下载主题的目录
+$ ln -s $DRACULA_THEME/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
+</code></pre>
+<p>3、修改zsh主题。编辑usr下<code>.zshrc</code>文件，修改ZSH_THEME为</p>
+<pre class=" language-ZSH"><code class="language-ZSH">$ vim ~/.zshrc
+
+ZSH_THEME="dracula"
+</code></pre>
+<p>4、最后，更新配置文件</p>
+<pre class=" language-zsh"><code class="language-zsh">source ~/.zshrc
+</code></pre>
+<h3 id="主题四：powerline下载安装"><a href="#主题四：powerline下载安装" class="headerlink" title="主题四：powerline下载安装"></a>主题四：powerline下载安装</h3><p>powerline官网：<a href="https://powerline.readthedocs.io/en/latest/installation.html" target="_blank" rel="noopener">https://powerline.readthedocs.io/en/latest/installation.html</a><br>里面有详细的安装设置</p>
+<p>1、下载主题 powerline-theme</p>
+<pre class=" language-ZSH"><code class="language-ZSH">git clone git://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme 
+</code></pre>
+<p>下载完后安装主题，执行目录下的脚本install.sh，将主题 powerline.zsh-theme 放入 ~/.oh-my-zsh/themes/ 内</p>
+<pre class=" language-ZSH"><code class="language-ZSH">sudo ./oh-my-zsh-powerline-theme/install.sh
+</code></pre>
+<p>2、安装主题所需要的字体，否则会乱码</p>
+<pre class=" language-ZSH"><code class="language-ZSH">git clone https://github.com/powerline/fonts.git
+
+sudo ./fonts/install.sh
+</code></pre>
+<p>3、找到“文本-&gt;&gt;字体-&gt;&gt;更改” ，”所有字体”中选中“ Meslo LG M for powerLine“ 字体</p>
+<p>4、设置oh my zsh 配置文件</p>
+<pre class=" language-ZSH"><code class="language-ZSH">vim  ~/.zshrc   //vim 编辑 zshrc 配置文件
+</code></pre>
+<p>修改文件此处需要用到vim命令，此处不做演示<br>或者用一个自己熟悉的编辑器打开这个文件，可以找到这一项：ZSH_THEME</p>
+<pre class=" language-ZSH"><code class="language-ZSH">ZSH_THEME="robbyrussel" 
+plugins=(git autojump osx brew node npm) 
+</code></pre>
+<p>最后保存，重启终端命令行即可看到powerLine 主题。</p>
+<h2 id="oh-my-zsh必备插件汇总"><a href="#oh-my-zsh必备插件汇总" class="headerlink" title="oh-my-zsh必备插件汇总"></a>oh-my-zsh必备插件汇总</h2><h3 id="插件一：incr自动补全插件"><a href="#插件一：incr自动补全插件" class="headerlink" title="插件一：incr自动补全插件"></a>插件一：incr自动补全插件</h3><p>下载 <a href="https://mimosa-pudica.net/src/incr-0.2.zsh" target="_blank" rel="noopener">incr</a> 自动补全插件，并将插件放在 oh-my-zsh 自定义插件目录中.</p>
+<p>在 <code>/.oh-my-zsh/plugins</code> 中添加 <code>incr</code>文件夹，并拷入文件<code>incr-0.2.zsh</code>，然后在配置文件结束添加：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">source $ZSH/custom/plugins/incr/incr*.zsh
+</code></pre>
+<p>最后，更新配置文件</p>
+<pre class=" language-zsh"><code class="language-zsh">source ~/.zshrc
+</code></pre>
+<p>实现效果，如官网所示：</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/6565026-9cf571a72835b013.gif?imageMogr2/auto-orient/strip|imageView2/2/w/404/format/webp" alt="官网效果"></p>
+<h3 id="插件二：命令提示插件-zsh-autosuggestions"><a href="#插件二：命令提示插件-zsh-autosuggestions" class="headerlink" title="插件二：命令提示插件 zsh-autosuggestions"></a>插件二：命令提示插件 zsh-autosuggestions</h3><p>实现效果:输入g会出现相应提示，按↑即可补全</p>
+<p><img src="https://img-blog.csdnimg.cn/20190425214634449.png" alt="效果参考"></p>
+<p>步骤如下：</p>
+<ol>
+<li>下载命令提示插件</li>
+<li>编辑配置文件，使用插件</li>
+<li>添加配置文件</li>
+</ol>
+<pre class=" language-ZSH"><code class="language-ZSH">sudo git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+
+vim ~/.zshrc
+
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+</code></pre>
+<h3 id="插件三：语法高亮显示"><a href="#插件三：语法高亮显示" class="headerlink" title="插件三：语法高亮显示"></a>插件三：语法高亮显示</h3><p><code>zsh-syntax-highlighting</code>插件可以使终端输入的命令有语法高亮效果，修改<code>～/zshrc</code>配置文件：</p>
+<pre class=" language-ZSH"><code class="language-ZSH">git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+</code></pre>
+<p>在配置文件中查找设置plugins的行，并添加插件.</p>
+<blockquote>
+<p>注意：zsh-syntax-highlighting 必须放在最后面（官方推荐）*</p>
+</blockquote>
+<pre class=" language-ZSH"><code class="language-ZSH">plugins=(
+    git
+    ......
+    ........
+    zsh-syntax-highlighting
+)
+# 添加以下内容到文件末
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+</code></pre>
+<p><img src="https://img-blog.csdnimg.cn/2019031918165885.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RhaXl1aGU=,size_16,color_FFFFFF,t_70" alt="配置参考"></p>
+<p>最后，更新配置文件</p>
+<pre class=" language-zsh"><code class="language-zsh">source ~/.zshrc
+</code></pre>
+<hr>
+<p>本文参考网站如下，很是感谢：</p>
+<ul>
+<li><a href="https://www.jianshu.com/p/9c3439cc3bdb" target="_blank" rel="noopener">iTerm2 + Oh My Zsh 打造舒适终端体验</a></li>
+<li><a href="https://blog.csdn.net/daiyuhe/article/details/88667875" target="_blank" rel="noopener">利用iTerm2+oh-my-zsh+Dracula主题打造我的Mac终端利器</a></li>
+<li><a href="https://blog.csdn.net/zhangqianzhong/article/details/89221167" target="_blank" rel="noopener">打造Mac上漂亮又好用的终端-iterm2 + Oh my Zsh +主题和配色方案</a></li>
+</ul>
 
             </div>
             <hr/>
@@ -503,7 +793,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://WangFazn.github.io/404.html">http://WangFazn.github.io/404.html</a>
+                    <a href="http://WangFazn.github.io/iterm2-oh-my-zsh-da-zao-mac-shang-piao-liang-you-hao-yong-de-zhong-duan/">http://WangFazn.github.io/iterm2-oh-my-zsh-da-zao-mac-shang-piao-liang-you-hao-yong-de-zhong-duan/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -540,7 +830,23 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/blog/tags/iterm2/">
+                                    <span class="chip bg-color">iterm2</span>
+                                </a>
+                            
+                                <a href="/blog/tags/oh-my-zsh/">
+                                    <span class="chip bg-color">oh-my-zsh</span>
+                                </a>
+                            
+                                <a href="/blog/tags/zsh/">
+                                    <span class="chip bg-color">zsh</span>
+                                </a>
+                            
+                                <a href="/blog/tags/Mac/">
+                                    <span class="chip bg-color">Mac</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -967,34 +1273,29 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/404.html">
+                <a href="/macos-xia-ming-ling-xing-shen-qi-brew/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="404 Not Found">
+                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="MacOS下命令行神器：brew">
                         
-                        <span class="card-title">404 Not Found</span>
+                        <span class="card-title">MacOS下命令行神器：brew</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            404 Not Found
-很抱歉，您访问的页面不存在
-可能是输入地址有误或该地址已被删除
-网站正在建设中，精彩很快呈现，敬请期待！
-
+                            
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-02-02 星期日
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2020-02-11 星期二
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
@@ -1003,7 +1304,6 @@
                         </span>
                     </div>
                 </div>
-
                 
             </div>
         </div>
@@ -1011,31 +1311,30 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                本篇&nbsp;<i class="far fa-dot-circle"></i>
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/404.html">
+                <a href="/markdown-zai-xian-bian-ji-qi-mdeditor/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="404 Not Found">
+                        <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="Markdown在线编辑器MdEditor">
                         
-                        <span class="card-title">404 Not Found</span>
+                        <span class="card-title">Markdown在线编辑器MdEditor</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            404 Not Found
-很抱歉，您访问的页面不存在
-可能是输入地址有误或该地址已被删除
-网站正在建设中，精彩很快呈现，敬请期待！
+                            Markdown在线编辑器 MdEditor 介绍转载Markdown是一种轻量级的「标记语言」
 
+
+Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-02-02 星期日
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-02-06 星期四
                             </span>
                         <span class="publish-author">
                             
@@ -1045,7 +1344,22 @@
                         </span>
                     </div>
                 </div>
-
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/blog/tags/Markdown/">
+                        <span class="chip bg-color">Markdown</span>
+                    </a>
+                    
+                    <a href="/blog/tags/MdEditor/">
+                        <span class="chip bg-color">MdEditor</span>
+                    </a>
+                    
+                    <a href="/blog/tags/转载/">
+                        <span class="chip bg-color">转载</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
